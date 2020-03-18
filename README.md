@@ -1,7 +1,7 @@
 # A Task of Just Noticeable Difference for auditory stimuli
 
 This is a preliminary version of the JND task for auditory stimuli
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/yxlin/JND_project/figs/paradigm_v3.png)
 
 ## Contributors
 Please report bugs to [me](mailto:yishinlin001@gmail.com) or start an issue
