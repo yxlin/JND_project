@@ -7,7 +7,7 @@ This is a preliminary version of the JND task for auditory stimuli
 Please report any issues to [Yi-Shin Lin](mailto:yishinlin001@gmail.com)
 
 * Processing of auditory stimuli: Yu-Chen Lin
-* Hardware support and data collection: You-Jin Li
+* Hardware support and data collection: You-Jin Li and Yue Li
 * Lab lead: Yu Tsao
 
 ## License
